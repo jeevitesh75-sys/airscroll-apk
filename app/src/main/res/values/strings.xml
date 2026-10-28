@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AirScroll</string>
+    <string name="acc_desc">Lets AirScroll swipe, tap and show a pointer circle for you when it sees your hand gesture. It only checks the name of the app that is in front (to know when you are on the home screen); it never reads or stores what is on your screen.</string>
+</resources>
